@@ -37,15 +37,27 @@ width:430px;
   text-align: left
 }
 .autumn img {
-  height:450px;
+  height:600px;
   width: 100%;
   }
   .winter img{
-    height:450px;
+    height:600px;
     width:100%;
   }
 
   .spring img{
-    height:570px;
+    height:600px;
     width:100%;
   }
+  .description{
+    font-size:20px;
+  }
+  .lead:{
+    font-size:20px;
+  }
+.desc{
+  font-size:20px;
+}
+.cris{
+  font-size:20px;
+}
