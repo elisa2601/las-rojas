@@ -8,9 +8,7 @@ body {
 .gallery img {
   width: 300px;
 }
-.myrow div {
-  background-color: pink;
-}
+
 .carousel-item{
   text-align: left;
 }
@@ -23,5 +21,15 @@ width: 100%
 }
 .col-4 img{
 width:350px;
-
+}
+.col-2{
+  background-color: rgba(21, 182, 174, 0.61)
+}
+.col-2{
+  height:30px;
+}
+.seasons img {
+  height:200px;
+  width:100%;
+  object-fit: cover;
 }
