@@ -21,3 +21,7 @@ body {
 #carouselExampleControls img {
 width: 100%
 }
+.col-4 img{
+width:350px;
+
+}
