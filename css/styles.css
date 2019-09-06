@@ -11,3 +11,13 @@ body {
 .myrow div {
   background-color: pink;
 }
+.carousel-item{
+  text-align: left;
+}
+#carouselExampleControls{
+  width: 100%;
+}
+
+#carouselExampleControls img {
+width: 100%
+}
